@@ -2,6 +2,7 @@
 Hi and welcome! I'm Tatyana Gorelova - a frontend developer from Zvenigorod.
 
 ## Technology stack
+HTML, CSS, JavaScript, React, Redux, Storybook, Cromatic
 
 ## My Projects
 1. [Game Pick Up Pumpkins](https://tgorella.github.io/game-pick-up-pumpkins/) | [Code](https://github.com/tgorella/game-pick-up-pumpkins)
