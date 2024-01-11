@@ -2,7 +2,7 @@
 Hi and welcome! I'm Tatyana Gorelova - a frontend developer from Zvenigorod.
 
 ## Technology stack
-HTML, CSS, JavaScript, SASS, React, Redux, Storybook, Cromatic, Photoshop, Lightroom, 
+HTML, CSS, JavaScript, SASS, React, Redux, Storybook, Cromatic, TypeScript 
 
 
 
