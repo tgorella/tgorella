@@ -8,7 +8,7 @@ HTML, CSS, JavaScript, SASS, React, Redux, Storybook, Cromatic, TypeScript
 
 ## My Projects
 
-[Workflow crm system](https://crm.tanya-gorelova.website/) | [Code](https://github.com/tgorella/workflow-crm-system)
+[Workflow crm system](http://crm.tanya-gorelova.website/) | [Code](https://github.com/tgorella/workflow-crm-system)
 
 [Game Pick Up Pumpkins](https://tgorella.github.io/game-pick-up-pumpkins/) | [Code](https://github.com/tgorella/game-pick-up-pumpkins)
 
