@@ -4,9 +4,12 @@ Hi and welcome! I'm Tatyana Gorelova - a frontend developer.
 ## Technology stack
 HTML, CSS, JavaScript, SASS, React, Redux, Storybook, Cromatic, TypeScript 
 
+## HTML / CSS example pages layouts
 
+[School of future](https://tgorella.github.io/school-of-future/) | [Code](https://github.com/tgorella/school-of-future)
+[Ocean - simple information page with parallax effect](https://tgorella.github.io/ocean/) | [Code](https://github.com/tgorella/ocean)
 
-## My Projects
+## My Projects on JS / React
 
 [Workflow crm system](http://crm.tanya-gorelova.website/) | [Code](https://github.com/tgorella/workflow-crm-system)
 
