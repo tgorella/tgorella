@@ -6,15 +6,13 @@ HTML, CSS, JavaScript, SASS, React, Redux, Storybook, Cromatic, TypeScript
 
 ## HTML / CSS example pages layouts
 
-[School of future](https://tgorella.github.io/school-of-future/) | [Code](https://github.com/tgorella/school-of-future)
+[School of future](https://tgorella.github.io/school-of-future/) | [Code](https://github.com/tgorella/school-of-future)  
 [Ocean - simple information page with parallax effect](https://tgorella.github.io/ocean/) | [Code](https://github.com/tgorella/ocean)
 
 ## My Projects on JS / React
 
-[Workflow crm system](http://crm.tanya-gorelova.website/) | [Code](https://github.com/tgorella/workflow-crm-system)
-
-[Game Pick Up Pumpkins](https://tgorella.github.io/game-pick-up-pumpkins/) | [Code](https://github.com/tgorella/game-pick-up-pumpkins)
-
+[Workflow crm system](http://crm.tanya-gorelova.website/) | [Code](https://github.com/tgorella/workflow-crm-system)  
+[Game Pick Up Pumpkins](https://tgorella.github.io/game-pick-up-pumpkins/) | [Code](https://github.com/tgorella/game-pick-up-pumpkins)  
 [To-do list with the Alastair Method](https://tgorella.github.io/task-list/) | [Code](https://github.com/tgorella/task-list)
 
 
