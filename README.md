@@ -1,5 +1,8 @@
 # Hi there! I'm Tatiana
 
+Contact me:  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TanyaGorelova)
+
 ## About me
 Hi and welcome! I'm Tatyana Gorelova - a frontend developer.
 
