@@ -24,10 +24,6 @@ Hi and welcome! I'm Tatyana Gorelova - a frontend developer.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## HTML / CSS example pages layouts
-
-[School of future](https://tgorella.github.io/school-of-future/) | [Code](https://github.com/tgorella/school-of-future)  
-[Ocean - simple information page with parallax effect](https://tgorella.github.io/ocean/) | [Code](https://github.com/tgorella/ocean)
 
 ## My Projects on JS / React
 
