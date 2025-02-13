@@ -35,3 +35,13 @@ Hi and welcome! I'm Tatyana Gorelova - a frontend developer.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tgorella&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 <a gref="github.com/tgorella"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgorella&layout=compact&langs_count=7&theme=tokyonight" alt=""></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tgorella&theme=default&no-frame=true&no-bg=true&margin-w=4)
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=tgorella&icon=7&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
